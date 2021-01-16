@@ -1,6 +1,6 @@
 ## 描述 
 * 本程式為繪圖網站PIXIV每日排行榜的爬蟲
-* 使用工具及環境: nodepad++, powershell, nodejs
+* 使用工具及環境: Notepad++(editer), Windows PowerShell, nodejs
 * 目標網站: [PIXIV](http://pixiv.net/ranking.php)
 * 找到連結會直接顯示在localhost網頁上，結果隨網站更新變化
 
