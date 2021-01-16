@@ -7,12 +7,12 @@
 ## 程式
 * [執行檔](https://github.com/st741963456/crawer/blob/main/index.js)
 
-##安裝套件： 
+## 安裝套件： 
 * npm install express
 * npm install superagent
 * npm install cheerio
 
-執行方法： node index.js
+## 執行方法： node index.js
 
 ```
 const express = require('express');
